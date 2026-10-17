@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+# generated reports (the checked-in sample-report.html is kept)
+pulse-*.html
